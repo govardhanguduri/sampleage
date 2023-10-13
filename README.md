@@ -16,6 +16,7 @@ You may also see any lint errors in the console.
 
 ### `npm install`
 
+[npm install](npm install)
 [npm install](npm install)  \
 [npm i react-router-dom] (npm i react-router-dom)\
 [npm i bootstrap] (npm i bootstrap)\
