@@ -23,7 +23,7 @@ npm i bootstrap-icons\
 npm i @emotion/styled\
 npm i @mui/icons-material\
 npm i @mui/material\
-npm i @emotion/react\
+npm i @emotion/react
 
 
 
