@@ -14,6 +14,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm install`
+
+npm install
+npm i react-router-dom
+npm i bootstrap
+npm i bootstrap-icons
+npm i @emotion/styled
+npm i @mui/icons-material
+npm i @mui/material
+npm i @emotion/react
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
