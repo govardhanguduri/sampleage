@@ -16,10 +16,10 @@ You may also see any lint errors in the console.
 
 ### `npm install`
 
-npm install\
-npm i react-router-dom\
-npm i bootstrap\
-npm i bootstrap-icons\
+[npm install](npm install)\
+[npm i react-router-dom] (npm i react-router-dom)\
+[npm i bootstrap] (npm i bootstrap)\
+[npm i bootstrap-icons] (npm i bootstrap-icons)\
 npm i @emotion/styled\
 npm i @mui/icons-material\
 npm i @mui/material\
